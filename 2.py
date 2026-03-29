@@ -17,7 +17,6 @@ def ddf(x):
 
 '''метод бисекции'''
 
-print ("vsem privet")
 
 def bisec(a, b, eps, max_it=100):
     iter = 0
